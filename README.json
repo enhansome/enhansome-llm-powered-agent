@@ -1,0 +1,1935 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Autonomous Task Solver"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[May 2024] \"Offline Training of Language Model Agents with Functions as Learnable Weights.\" Shaokun Zhang (PSU) et al. ICML 2024. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:39:38Z",
+            "owner": "ag2ai",
+            "repo": "ag2",
+            "stars": 4855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥📖 [Oct 2022] \"ReAct: Synergizing Reasoning and Acting in Language Models.\" Shunyu Yao (Princeton & Google Brain) et al. ICLR 2023. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-06T02:34:32Z",
+            "owner": "ysymyth",
+            "repo": "ReAct",
+            "stars": 4107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [May 2023] \"ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models.\" Binfeng Xu et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-28T16:30:54Z",
+            "owner": "billxbf",
+            "repo": "ReWOO",
+            "stars": 943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models.\" Andy Zhou (UIUC) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-30T20:29:27Z",
+            "owner": "lapisrocks",
+            "repo": "LanguageAgentTreeSearch",
+            "stars": 849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[May 2023] \"CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.\" Zhibin Gou (THU & Microsoft) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T11:27:09Z",
+            "owner": "microsoft",
+            "repo": "ProphetNet",
+            "stars": 745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Apr 2023] \"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency.\" Bo Liu (UT Austin) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SAS",
+            "last_commit": "2023-09-27T15:25:33Z",
+            "owner": "Cranial-XIX",
+            "repo": "llm-pddl",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Mar 2024] \"Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models .\" Zehui Chen (USTC) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-22T15:12:14Z",
+            "owner": "InternLM",
+            "repo": "Agent-FLAN",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [May 2023] \"SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks.\" Bill Yuchen Lin (AI2) et al. NeurIPS 2023. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-22T05:54:35Z",
+            "owner": "SwiftSage",
+            "repo": "SwiftSage",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [May 2024] \"Can Graph Learning Improve Planning in LLM-based Agents?\" Xixi Wu (CUHK) and Yifei Shen (MSRA) et al. NeurIPS 2024. [paper",
+          "description": "] [code] [chinese blog]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-11T05:21:06Z",
+            "owner": "WxxShirley",
+            "repo": "GNN4TaskPlan",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency.\" Zhihan Liu (Northwestern) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-02T04:48:17Z",
+            "owner": "agentification",
+            "repo": "RAFA_code",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [May 2023] \"AdaPlanner: Adaptive Planning from Feedback with Language Models.\" Haotian Sun (GaTech) et al. NeurIPS 2023. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-03-31T21:40:23Z",
+            "owner": "haotiansun14",
+            "repo": "AdaPlanner",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [May 2023] \"Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning.\" Lin Guan (ASU) et al. NeurIPS 2023. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-11T20:53:58Z",
+            "owner": "GuanSuns",
+            "repo": "LLMs-World-Models-for-Planning",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [Dec 2022] \"Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments\" Yu Gu (OSU) et al. ACL 2023. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-17T20:24:34Z",
+            "owner": "dki-lab",
+            "repo": "Pangu",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [Dec 2023] \"SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge.\" Rishi Hazra et al. AAAI 2024 [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T10:11:18Z",
+            "owner": "RishiHazra",
+            "repo": "saycanpay",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"Dynamic Planning with a LLM.\" Gautier Dagan (U of Edinburgh) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-04T09:38:06Z",
+            "owner": "itl-ed",
+            "repo": "llm-dp",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [May 2023] \"ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models.\" Zhipeng Chen (RUC) et al. EMNLP 2023 Findings. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-02T14:05:29Z",
+            "owner": "RUCAIBox",
+            "repo": "ChatCoT",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥📖 [May 2022] \"Reasoning with Language Model is Planning with World Model.\" Shibo Hao (UCSD) et al. EMNLP 2023. [paper",
+          "description": "] [code] [project page]",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "🔥📖 [Mar 2023] \"Reflexion: Language Agents with Verbal Reinforcement Learning.\" Noah Shinn (Northeastern) et al. NeurIPS 2023. [paper",
+          "description": "] [code]",
+          "children": []
+        }
+      ],
+      "title": "General Reasoning & Planning & Tool Using"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [Aug 2023] \"MetaGPT: Meta Programming for Multi-Agent Collaborative Framework.\" Sirui Hong (DeepWisdom) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Aug 2023] \"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents.\" Weize Chen (THU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [May 2023] \"Large Language Models as Tool Makers.\" Tianle Cai (Deepmind & Princeton) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-29T09:23:54Z",
+            "owner": "ctlllll",
+            "repo": "LLM-ToolMaker",
+            "stars": 1062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"LLM As DBA.\" Xuanhe Zhou (THU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-27T03:28:34Z",
+            "owner": "TsinghuaDatabaseGroup",
+            "repo": "DB-GPT",
+            "stars": 710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[May 2023] \"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate.\" Tian Liang (THU & Tencent) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-16T06:47:28Z",
+            "owner": "Skytliang",
+            "repo": "Multi-Agents-Debate",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[May 2023] \"Improving Factuality and Reasoning in Language Models through Multiagent Debate.\" Yilun Du (MIT) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-24T21:49:03Z",
+            "owner": "composable-models",
+            "repo": "llm_multiagent_debate",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2023] \"Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration.\" Zhenhailong Wang (UIUC & MSRA) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-08T21:02:10Z",
+            "owner": "MikeWangWZHL",
+            "repo": "Solo-Performance-Prompting",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate.\" Chi-Min Chan (THU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-19T08:18:57Z",
+            "owner": "thunlp",
+            "repo": "ChatEval",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"Gentopia: A Collaborative Platform for Tool-Augmented LLMs.\" Binfeng Xu et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-27T02:42:21Z",
+            "owner": "Gentopia-AI",
+            "repo": "Gentopia",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2023] \"Building Cooperative Embodied Agents Modularly with Large Language Models.\" Hongxin Zhang (UMass) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-30T15:18:28Z",
+            "owner": "UMass-Embodied-AGI",
+            "repo": "CoELA",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2023] \"RoCo: Dialectic Multi-Robot Collaboration with Large Language Models.\" Mandi Zhao (Columbia) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-04T04:57:30Z",
+            "owner": "MandiZhao",
+            "repo": "robot-collab",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization.\" Zijun Liu (THU & Stanford) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-16T07:46:26Z",
+            "owner": "SALT-NLP",
+            "repo": "DyLAN",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[May 2023] \"Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback.\" Yao Fu (U of Edinburgh) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-24T09:59:45Z",
+            "owner": "FranxYao",
+            "repo": "GPT-Bargaining",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs.\" Justin Chih-Yao Chen (UNC Chapel Hill) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T15:09:54Z",
+            "owner": "dinobby",
+            "repo": "ReConcile",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [Jan 2024] \"L2MAC: Large Language Model Automatic Computer for Extensive Code Generation.\" Samuel Holt (Cambridge) et al. ICLR 2024. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-27T00:50:24Z",
+            "owner": "samholt",
+            "repo": "L2MAC",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View.\" Jintian Zhang (ZJU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T17:36:28Z",
+            "owner": "zjunlp",
+            "repo": "MachineSoM",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games.\" Sahar Abdelnabi (CISPA) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-11T16:26:56Z",
+            "owner": "S-Abdelnabi",
+            "repo": "LLM-Deliberation",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"Scalable Multi-Robot Collaboration with Large Language Models: Centralized or Decentralized Systems?\" Yongchao Chen (MIT & Harvard) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-26T22:47:18Z",
+            "owner": "yongchao98",
+            "repo": "multi-agent-framework",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"Corex: Pushing the Boundaries of Complex Reasoning through Multi-Model Collaboration.\" Qiushi Sun (Shanghai AI Lab & NUS) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-18T17:53:33Z",
+            "owner": "QiushiSun",
+            "repo": "Corex",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[April 2024] \"CoMM: Collaborative Multi-Agent, Multi-Reasoning-Path Prompting for Complex Problem Solving.\" Pei Chen (TAMU) et al.* NAACL 2024. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-26T22:54:08Z",
+            "owner": "amazon-science",
+            "repo": "comm-prompt",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2023] \"PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations.\" Ruosen Li (UT Dallas) et al. arXiv. [paper",
+          "description": "] [project page][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-21T17:37:02Z",
+            "owner": "bcdnlp",
+            "repo": "PRD",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"How susceptible are LLMs to Logical Fallacies?\" Amirreza Payandeh (GMU & Vail Systems) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-19T18:06:13Z",
+            "owner": "Amir-pyh",
+            "repo": "LOGICOM",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[May 2024] \"Conformity, Confabulation, and Impersonation: Persona Inconstancy in Multi-Agent LLM Collaboration.\" Razan Baltaji (UIUC) et al.* arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-08T16:05:24Z",
+            "owner": "baltaci-r",
+            "repo": "CulturedAgents",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Multi-Agent Cooperation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [Aug 2023] \"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.\" Qingyun Wu et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Mar 2025] \"Julep: Open Responses – Serverless open-source platform for building long-running LLM agents with tool use.\" Julep AI. [code",
+          "description": "] [docs]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T05:17:30Z",
+            "owner": "julep-ai",
+            "repo": "julep",
+            "stars": 6597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Sep 2023] \"Agents: An Open-source Framework for Autonomous Language Agents.\" Wangchunshu Zhou (AI Waves) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-26T03:12:53Z",
+            "owner": "aiwaves-cn",
+            "repo": "agents",
+            "stars": 5957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Oct 2023] \"OpenAgents: An Open Platform for Language Agents in the Wild.\" Tianbao Xie (HKU & XLang Lab) et al. arxiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-18T09:39:29Z",
+            "owner": "xlang-ai",
+            "repo": "OpenAgents",
+            "stars": 4855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Sep 2023] \"AutoAgents: A Framework for Automatic Agent Generation.\" Guangyao Chen (PKU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-09T21:06:56Z",
+            "owner": "OWD-AI",
+            "repo": "AutoAgents",
+            "stars": 1490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Sep 2023] \"Cognitive Architectures for Language Agents.\" Theodore Sumers (Princeton) et al. arXiv. [paper",
+          "description": "] [repo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-01-16T19:58:19Z",
+            "owner": "ysymyth",
+            "repo": "awesome-language-agents",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Aug 2023] \"FastAgency: The fastest way to bring multi-agent workflows to production.\" Davor Runje et al. [code",
+          "description": "] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-23T00:49:21Z",
+            "owner": "ag2ai",
+            "repo": "fastagency",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Feb 2025] \"The Ann Arbor Architecture for Agent-Oriented Programming.\" Wei Dong arxiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-13T12:41:05Z",
+            "owner": "aaalgo",
+            "repo": "postline_0.1",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Framework & Open-Source"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Application"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [Jul 2023] \"WebArena: A Realistic Web Environment for Building Autonomous Agents.\" Shuyan Zhou (CMU) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T21:16:00Z",
+            "owner": "web-arena-x",
+            "repo": "webarena",
+            "stars": 1576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥📖 [Jun 2023] \"Mind2Web: Towards a Generalist Agent for the Web.\" Xiang Deng (OSU) et al. NeurIPS 2023. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-05T00:38:41Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "Mind2Web",
+            "stars": 1019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [Jul 2022] \"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents.\" Shunyu Yao (Princeton) et al. NeurIPS 2022. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-06T04:00:38Z",
+            "owner": "princeton-nlp",
+            "repo": "WebShop",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"You Only Look at Screens: Multimodal Chain-of-Action Agents.\" Zhuosheng Zhang (SJTU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-16T04:46:04Z",
+            "owner": "cooelf",
+            "repo": "Auto-GUI",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Mar 2023] \"Language Models can Solve Computer Tasks.\" Geunwoo Kim (UCI) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-01T03:07:29Z",
+            "owner": "posgnu",
+            "repo": "rci-agent",
+            "stars": 239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[May 2023] \"Mobile-Env: An Evaluation Platform and Benchmark for Interactive Agents in LLM Era.\" Danyang Zhang (SJTU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-24T06:22:12Z",
+            "owner": "X-LANCE",
+            "repo": "Mobile-Env",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"LASER: LLM Agent with State-Space Exploration for Web Navigation.\" Kaixin Ma (Tencent) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-26T01:17:36Z",
+            "owner": "Mayer123",
+            "repo": "LASER",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Web Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[May 2024] \"Agentic Skill Discovery.\" Xufeng Zhao (UHH) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-13T13:47:18Z",
+            "owner": "xf-zhao",
+            "repo": "Agentic-Skill-Discovery",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"LaGR-SEQ: Language-Guided Reinforcement Learning with Sample-Efficient Querying.\" Thommen George Karimpanal (Deakin University) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-21T01:01:02Z",
+            "owner": "GKthom",
+            "repo": "LaGRSEQ",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "RL Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [May 2023] \"Voyager: An Open-Ended Embodied Agent with Large Language Models.\" Guanzhi Wang (NVIDIA & Caltech) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-03T18:51:36Z",
+            "owner": "MineDojo",
+            "repo": "Voyager",
+            "stars": 7137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [May 2023] \"Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory.\" Xizhou Zhu (THU & SenseTim) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-05T02:28:03Z",
+            "owner": "OpenGVLab",
+            "repo": "GITM",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Nov 2023] \"JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.\" Zihao Wang (PKU) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-08T02:48:50Z",
+            "owner": "CraftJarvis",
+            "repo": "JARVIS-1",
+            "stars": 408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2024] \"Odyssey: Empowering Agents with Open-World Skills.\" Shunyu Liu (Zhejiang University) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T07:37:45Z",
+            "owner": "zju-vipa",
+            "repo": "Odyssey",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent.\" Jianing Yang (UMich) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-10T07:52:31Z",
+            "owner": "sled-group",
+            "repo": "chat-with-nerf",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [Feb 2023] \"Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents.\" Zihao Wang (PKU) et al. NeurIPS 2023. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-03T16:51:30Z",
+            "owner": "CraftJarvis",
+            "repo": "MC-Planner",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2023] \"Embodied Task Planning with Large Language Models.\" Zhenyu Wu (BUPT) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-22T12:36:24Z",
+            "owner": "Gary3410",
+            "repo": "TaPA",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond.\" Liang Chen (PKU) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-14T11:37:19Z",
+            "owner": "pkunlp-icler",
+            "repo": "PCA-EVAL",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Nov 2023] \"MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception\" Yiran Qin (CUHKSZ) et al. CVPR 2024. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-30T13:42:16Z",
+            "owner": "IranQin",
+            "repo": "MP5",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jan 2023] \"Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling.\" Kolby Nottingham (UCI) et al. ICML 2023. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-23T16:33:59Z",
+            "owner": "DeckardAgent",
+            "repo": "deckard",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jun 2023] \"Enabling Intelligent Interactions between an Agent and an LLM: A Reinforcement Learning Approach.\" Bin Hu (Zhejiang Lab) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-22T10:48:16Z",
+            "owner": "ZJLAB-AMMI",
+            "repo": "LLM4RL",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2023] \"March in Chat: Interactive Prompting for Remote Embodied Referring Expression.\" Yanyuan Qiao (Adelaide University) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-22T12:13:44Z",
+            "owner": "YanyuanQiao",
+            "repo": "MiC",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Nov 2024] \"LABOR Agent: Large Language Models for Orchestrating Bimanual Robots\", Kun Chu (UHH) et al. Humanoids 2024. [Paper",
+          "description": "] [Website], [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-23T22:55:34Z",
+            "owner": "Kchu",
+            "repo": "LABOR-Agent",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Mar 2025] \"LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language\", Kun Chu (UHH) et al. arXiv. [Paper",
+          "description": "], [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-24T09:17:03Z",
+            "owner": "Kchu",
+            "repo": "LLM-MAP",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Robotics & Embodied AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥📖 [Mar 2023] \"CAMEL: Communicative Agents for \"Mind\" Exploration of Large Scale Language Model Society.\" Guohao Li (KAUST) et al. NeurIPS 2023. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T09:51:49Z",
+            "owner": "camel-ai",
+            "repo": "camel",
+            "stars": 17578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4.\" Jiaxian Guo (U of Tokyo) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-08T08:02:01Z",
+            "owner": "CR-Gjx",
+            "repo": "Suspicion-Agent",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"From Text to Tactic: Evaluating LLMs Playing the Game of Avalon.\" Jonathan Light (RPI) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-30T02:18:50Z",
+            "owner": "jonathanmli",
+            "repo": "Avalon-LLM",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Apr 2023] \"Towards autonomous system: flexible modular production system enhanced with large language model agents.\" Yuchen Xia (University of Stuttgart) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-18T10:04:14Z",
+            "owner": "YuchenXia",
+            "repo": "GPT4IndustrialAutomation",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [May 2024] \"TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models.\" Jaewoo Ahn (SNU) et al. Findings of ACL 2024. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-20T00:29:11Z",
+            "owner": "ahnjaewoo",
+            "repo": "timechara",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[May 2023] \"clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents.\" Kranti Chalamalasetti (University of Potsdam) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-26T10:17:48Z",
+            "owner": "clp-research",
+            "repo": "clembench",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Gaming & Role-Playing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [Mar 2023] \"HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face.\" Yongliang Shen (ZJU & MSRA) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-29T13:44:13Z",
+            "owner": "microsoft",
+            "repo": "JARVIS",
+            "stars": 25160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Sep 2023] \"ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models.\" Chenliang Li (Alibaba) et al. arXiv. [paper",
+          "description": "] [code] [demo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:32:09Z",
+            "owner": "modelscope",
+            "repo": "ms-agent",
+            "stars": 4359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Sep 2023] \"ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving.\" Zhibin Gou (THU & Microsoft) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-22T09:46:48Z",
+            "owner": "microsoft",
+            "repo": "ToRA",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Apr 2023] \"GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.\" Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-08T01:12:43Z",
+            "owner": "ncbi",
+            "repo": "GeneGPT",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[May 2024] \"AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments\" Samuel Schmidgall (JHU & Stanford) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-31T03:52:37Z",
+            "owner": "SamuelSchmidgall",
+            "repo": "AgentClinic",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"OptiMUS: Optimization Modeling Using mip Solvers and large language models.\" Ali AhmadiTeshnizi (Stanford) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T17:10:14Z",
+            "owner": "teshnizi",
+            "repo": "OptiMUS",
+            "stars": 288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jan 2024] \"EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records.\" Wenqi Shi (GaTech) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-26T17:45:46Z",
+            "owner": "wshi83",
+            "repo": "EhrAgent",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jun 2024] Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis Jianxiang Yu (ECNU) et al. EMNLP 2024. [paper",
+          "description": "] [code] [model]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T17:08:13Z",
+            "owner": "ecnu-sea",
+            "repo": "SEA",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Dec 2024] SEAGraph: Unveiling the Whole Story of Paper Review Comments Jianxiang Yu (ECNU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-26T15:25:30Z",
+            "owner": "ecnu-sea",
+            "repo": "SEAGraph",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Apr 2024] \"ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning\" Ling Yue (RPI) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations.\" Xu Huang (USTC) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": []
+        }
+      ],
+      "title": "Other Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"Identifying the Risks of LM Agents with an LM-Emulated Sandbox\" Yangjun Ruan (University of Toronto & Vector Institute) et al. arXiv. [paper",
+          "description": "] [code] [demo] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T00:36:52Z",
+            "owner": "ryoungj",
+            "repo": "ToolEmu",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Feb 2024] \"Can Large Language Model Agents Simulate Human Trust Behaviors?\" Chengxing Xie (KAUST) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T21:25:33Z",
+            "owner": "camel-ai",
+            "repo": "agent-trust",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "Trustworthy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [Apr 2023] \"Generative Agents: Interactive Simulacra of Human Behavior.\" Joon Sung Park (Stanford) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-05T21:38:56Z",
+            "owner": "joonspk-research",
+            "repo": "generative_agents",
+            "stars": 21927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Aug 2023] \"AgentSims: An Open-Source Sandbox for Large Language Model Evaluation.\" Jiaju Lin (PTA Studio & PSU) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-18T05:17:33Z",
+            "owner": "py499372727",
+            "repo": "AgentSims",
+            "stars": 960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jun 2023] \"RecAgent: A Novel Simulation Paradigm for Recommender Systems.\" Lei Wang (RUC) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-01T01:57:31Z",
+            "owner": "RUC-GSAI",
+            "repo": "YuLan-Rec",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"Identifying the Risks of LM Agents with an LM-Emulated Sandbox\" Yangjun Ruan (University of Toronto & Vector Institute) et al. arXiv. [paper",
+          "description": "] [code] [demo] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T00:36:52Z",
+            "owner": "ryoungj",
+            "repo": "ToolEmu",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Apr 2023] \"Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models.\" Jimmy Wei (Cornell & Meta) et al. arXiv. [paper",
+          "description": "] [dataset] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-09-15T19:26:21Z",
+            "owner": "facebookresearch",
+            "repo": "LIGHT",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"Put Your Money Where Your Mouth Is: Evaluating Strategic Planning and Execution of LLM Agents in an Auction Arena.\" Jiangjie Chen (FDU & AI2) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-28T09:28:27Z",
+            "owner": "jiangjiechen",
+            "repo": "auction-arena",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Mar 2024] \"Emergence of Social Norms in Large Language Model-based Agent Societies.\" Siyue Ren (NWPU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T09:57:30Z",
+            "owner": "sxswz213",
+            "repo": "CRSEC",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2023] \"Epidemic Modeling with Generative Agents.\" Ross Williams (Virginia Tech) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-13T21:16:28Z",
+            "owner": "bear96",
+            "repo": "GABM-Epidemic",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Jul 2023] \"Are you in a Masquerade? Exploring the Behavior and Impact of Large Language Model Driven Social Bots in Online Social Networks.\" Siyu Li (SCU) et al. arXiv. [paper",
+          "description": "] [dataset]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-28T10:58:09Z",
+            "owner": "Litsay",
+            "repo": "Masquerade-23",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"Exploring the Intersection of Large Language Models and Agent-Based Modeling via Prompt Engineering.\" Edward Junprung (UC Berkeley) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-05T23:55:53Z",
+            "owner": "ejunprung",
+            "repo": "llm-agents",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Human Interaction Simulation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [May 2023] \"Training Socially Aligned Language Models in Simulated Human Society.\" Ruibo Liu (Dartmouth) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-18T16:43:12Z",
+            "owner": "agi-templar",
+            "repo": "Stable-Alignment",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [May 2023] \"Language Models Meet World Models: Embodied Experiences Enhance Language Models.\" Jiannan Xiang (UCSD) et al. NeurIPS 2023. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-10T17:32:15Z",
+            "owner": "szxiangjn",
+            "repo": "world-model-for-language-model",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"Agent Instructs Large Language Models to be General Zero-Shot Reasoners.\" Nicholas Crispino (WashU) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-20T22:45:07Z",
+            "owner": "wang-research-lab",
+            "repo": "agentinstruct",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Agents-Powered LLMs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [Aug 2023] \"AgentBench: Evaluating LLMs as Agents.\" Xiao Liu (THU) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-08T17:01:05Z",
+            "owner": "THUDM",
+            "repo": "AgentBench",
+            "stars": 3664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [Jul 2024] \"AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents.\" Harsh Trivedi (Stony Brook University) et al. ACL 2024. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T22:41:42Z",
+            "owner": "StonyBrookNLP",
+            "repo": "appworld",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"Benchmarking Large Language Models As AI Research Agents.\" Qian Huang (Stanford) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-19T13:53:23Z",
+            "owner": "snap-stanford",
+            "repo": "MLAgentBench",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Dec 2023] \"T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step.\" Zehui Chen (USTC, Shanghai AI Lab) et al. arXiv. [paper",
+          "description": "] [code] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-03T21:05:37Z",
+            "owner": "open-compass",
+            "repo": "T-Eval",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "📖 [June 2023] \"ToolQA: A Dataset for LLM Question Answering with External Tools.\" Yuchen Zhuang (GaTech) et al. NeurIPS 2023. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-19T02:34:22Z",
+            "owner": "night-chen",
+            "repo": "ToolQA",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Sep 2023] \"Identifying the Risks of LM Agents with an LM-Emulated Sandbox\" Yangjun Ruan (University of Toronto & Vector Institute) et al. arXiv. [paper",
+          "description": "] [code] [demo] [project page]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T00:36:52Z",
+            "owner": "ryoungj",
+            "repo": "ToolEmu",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Aug 2023] \"BOLAA: Benchmarking and Orchestrating LLM-augmented Autonomous Agents.\" Zhiwei Liu (Salesforce) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T18:17:36Z",
+            "owner": "salesforce",
+            "repo": "BOLAA",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Oct 2023] \"SmartPlay : A Benchmark for LLMs as Intelligent Agents.\" Yue Wu (CMU & Microsoft) et al. arXiv. [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-11T03:40:29Z",
+            "owner": "microsoft",
+            "repo": "SmartPlay",
+            "stars": 146
+          }
+        }
+      ],
+      "title": "Benchmark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔥 [Mar 2023] \"A Survey of Large Language Models (Sec. 6.3 - Planning for Complex Task Solving).\" Wayne Xin Zhao (RUC) et al. arXiv. [paper",
+          "description": "] [GitHub]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-11T09:51:42Z",
+            "owner": "RUCAIBox",
+            "repo": "LLMSurvey",
+            "stars": 12205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Sep 2023] \"The Rise and Potential of Large Language Model Based Agents: A Survey.\" Zhiheng Xi (FDU) et al. arXiv. [paper",
+          "description": "] [GitHub]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-12T03:08:58Z",
+            "owner": "WooooDyy",
+            "repo": "LLM-Agent-Paper-List",
+            "stars": 8170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🔥 [Aug 2023] \"A Survey on Large Language Model based Autonomous Agents.\" Lei Wang (RUC) et al. arXiv. [paper",
+          "description": "] [GitHub]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-02-20T00:59:30Z",
+            "owner": "Paitesanshi",
+            "repo": "LLM-Agent-Survey",
+            "stars": 2911
+          }
+        }
+      ],
+      "title": "Survey & Tutorial"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open-Source Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Auto-GPT",
+          "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:10:50Z",
+            "owner": "Significant-Gravitas",
+            "repo": "AutoGPT",
+            "stars": 186571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🦜️🔗 LangChain",
+          "description": "Building applications with LLMs through composability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:31:03Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPT Engineer",
+          "description": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-14T10:15:10Z",
+            "owner": "AntonOsika",
+            "repo": "gpt-engineer",
+            "stars": 55148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BabyAGI",
+          "description": "An AI-powered task management system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-31T05:05:45Z",
+            "owner": "yoheinakajima",
+            "repo": "babyagi",
+            "stars": 22347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "L2MAC",
+          "description": "A self-improving conversational agent integrated into the operating system to automate daily tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-09T02:11:13Z",
+            "owner": "OS-Copilot",
+            "repo": "OS-Copilot",
+            "stars": 1794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saplings",
+          "description": "🌳 Build smarter agents using tree search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-27T09:29:45Z",
+            "owner": "shobrook",
+            "repo": "saplings",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "L2MAC",
+          "description": "🚀 The LLM Automatic Computer Framework: L2MAC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-27T00:50:24Z",
+            "owner": "samholt",
+            "repo": "L2MAC",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yacana",
+          "description": "🔭🦙 Powering opensource LLMs with multi-agent chats and builing workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-27T14:08:28Z",
+            "owner": "rememberSoftwares",
+            "repo": "yacana",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "Autonomous Task Solver Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI Town 🏠💻💌",
+          "description": "A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-12T21:44:10Z",
+            "owner": "a16z-infra",
+            "repo": "ai-town",
+            "stars": 10297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🤖 AgentVerse 🪐",
+          "description": "A flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T05:47:44Z",
+            "owner": "OpenBMB",
+            "repo": "AgentVerse",
+            "stars": 5102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPTeam",
+          "description": "An open-source multi-agent simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:53:07Z",
+            "owner": "101dotxyz",
+            "repo": "GPTeam",
+            "stars": 1722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🏟 ChatArena",
+          "description": "Multi-agent language game environments for LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-11T20:19:17Z",
+            "owner": "Farama-Foundation",
+            "repo": "ChatArena",
+            "stars": 1553
+          }
+        }
+      ],
+      "title": "Multi-Agent Simulation Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLMAgentPapers",
+          "description": "Must-read papers on multiagents of LLMs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T00:29:18Z",
+            "owner": "zjunlp",
+            "repo": "LLMAgentPapers",
+            "stars": 3101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM-Agents-Papers",
+          "description": "A repo lists papers about LLM role playing, memory mechanism and LLM game playing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-12T07:39:24Z",
+            "owner": "AGI-Edgerunners",
+            "repo": "LLM-Agents-Papers",
+            "stars": 2334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-llm-agents",
+          "description": "A curated list of awesome LLM agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T02:17:57Z",
+            "owner": "kaushikb11",
+            "repo": "awesome-llm-agents",
+            "stars": 1561
+          }
+        }
+      ],
+      "title": "Other Related Sources"
+    },
+    {
+      "description": "We greatly appreciate any contributions via PRs, issues, emails, or other methods. Thanks Tianle Cai (@ctlllll), Yifan Song (@Yifan-Song793), Xinya Du (@xinyadu), Binfeng Xu (@billxbf), Xuanhe Zhou (@zhouxh19), Boyuan Zheng (@boyuanzheng010), Qiao Jin (@Andy-jqa), Shenao Zhang (@shenao-zhang), Yu Gu (@entslscheia), Zhibin Gou (@ZubinGou), Fan Zhou (@koalazf99), Ziniu Hu (@acbull), Yangjun Ruan (@ryoungj), Zhiyuan Hu (@zhiyuanhubj), Qinlin Zhao (@icecream-and-tea), Lucio La Cava (@luciolcv), Zehui Chen (@zehuichen123), Rishi Hazra (@RishiHazra), Lin Guan (@GuanSuns), Yuchen Zhuang (@night-chen), Xuhui Zhou (@XuhuiZhou), Samuel Holt (@samholt) and many others for their kind suggestions and contributions. ❤️\nThe repository is initially built and maintained by Yupeng Hou (yphou@ucsd.edu).",
+      "items": [],
+      "title": "Acknowledgement"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:13:08.880Z",
+    "original_repository": "hyp1231/awesome-llm-powered-agent",
+    "original_repository_sha": "c5a681870395f8d845e30bca9627c32a7d1fe011",
+    "enhanced_repository": "enhansome/enhansome-llm-powered-agent",
+    "enhanced_repository_description": null,
+    "title": "Awesome LLM-Powered Agent with stars"
+  }
+}
