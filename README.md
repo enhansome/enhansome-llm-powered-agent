@@ -47,8 +47,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### General Reasoning & Planning & Tool Using
 
-* \[May 2024] **"Offline Training of Language Model Agents with Functions as Learnable Weights."** *Shaokun Zhang (PSU) et al.* ICML 2024. \[[paper](https://arxiv.org/pdf/2402.11359)] \[[code](https://github.com/ag2ai/ag2/blob/main/notebook/agentchat_agentoptimizer.ipynb) ⭐ 4,877 | 🐛 29 | 🌐 Python | 📅 2026-08-19]
-* 🔥📖 \[Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models."** *Shunyu Yao (Princeton & Google Brain) et al.* ICLR 2023. \[[paper](https://arxiv.org/abs/2210.03629)] \[[code](https://github.com/ysymyth/ReAct) ⭐ 4,113 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06] \[[project page](https://react-lm.github.io)]
+* \[May 2024] **"Offline Training of Language Model Agents with Functions as Learnable Weights."** *Shaokun Zhang (PSU) et al.* ICML 2024. \[[paper](https://arxiv.org/pdf/2402.11359)] \[[code](https://github.com/ag2ai/ag2/blob/main/notebook/agentchat_agentoptimizer.ipynb) ⭐ 4,880 | 🐛 29 | 🌐 Python | 📅 2026-08-20]
+* 🔥📖 \[Oct 2022] **"ReAct: Synergizing Reasoning and Acting in Language Models."** *Shunyu Yao (Princeton & Google Brain) et al.* ICLR 2023. \[[paper](https://arxiv.org/abs/2210.03629)] \[[code](https://github.com/ysymyth/ReAct) ⭐ 4,114 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06] \[[project page](https://react-lm.github.io)]
 * 🔥 \[May 2023] **"ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models."** *Binfeng Xu et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.18323)] \[[code](https://github.com/billxbf/ReWOO) ⭐ 943 | 🐛 4 | 🌐 Python | 📅 2023-07-28]
 * \[Oct 2023] **"Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models."** *Andy Zhou (UIUC) et al.* arXiv. \[[paper](https://arxiv.org/abs/2310.04406)] \[[code](https://github.com/andyz245/LanguageAgentTreeSearch) ⭐ 852 | 🐛 8 | 🌐 Python | 📅 2024-07-30] \[[project page](https://andyz245.github.io/LanguageAgentTreeSearch)]
 * \[May 2023] **"CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing."** *Zhibin Gou (THU & Microsoft) et al.* arXiv. \[[paper](https://arxiv.org/pdf/2305.11738.pdf)] \[[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC) ⭐ 745 | 🐛 55 | 🌐 Python | 📅 2024-07-25]
@@ -78,12 +78,12 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Multi-Agent Cooperation
 
-* 🔥 \[Aug 2023] **"MetaGPT: Meta Programming for Multi-Agent Collaborative Framework."** *Sirui Hong (DeepWisdom) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.00352)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 69,899 | 🐛 129 | 🌐 Python | 📅 2026-01-21]
-* 🔥 \[Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents."** *Weize Chen (THU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.10848)] \[[code](https://github.com/OpenBMB/AgentVerse) ⭐ 5,112 | 🐛 35 | 🌐 JavaScript | 📅 2024-09-09]
+* 🔥 \[Aug 2023] **"MetaGPT: Meta Programming for Multi-Agent Collaborative Framework."** *Sirui Hong (DeepWisdom) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.00352)] \[[code](https://github.com/geekan/MetaGPT) ⭐ 69,913 | 🐛 130 | 🌐 Python | 📅 2026-01-21]
+* 🔥 \[Aug 2023] **"AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents."** *Weize Chen (THU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.10848)] \[[code](https://github.com/OpenBMB/AgentVerse) ⭐ 5,113 | 🐛 35 | 🌐 JavaScript | 📅 2024-09-09]
 * 🔥 \[May 2023] **"Large Language Models as Tool Makers."** *Tianle Cai (Deepmind & Princeton) et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.17126)] \[[code](https://github.com/ctlllll/LLM-ToolMaker) ⭐ 1,063 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-05-29]
 * \[Aug 2023] **"LLM As DBA."** *Xuanhe Zhou (THU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.05481)] \[[code](https://github.com/TsinghuaDatabaseGroup/DB-GPT) ⭐ 710 | 🐛 21 | 🌐 Python | 📅 2025-12-27]
-* \[May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate."** *Tian Liang (THU & Tencent) et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.19118)] \[[code](https://github.com/Skytliang/Multi-Agents-Debate) ⭐ 605 | 🐛 0 | 🌐 Python | 📅 2025-12-16]
-* \[May 2023] **"Improving Factuality and Reasoning in Language Models through Multiagent Debate."** *Yilun Du (MIT) et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.14325)] \[[code](https://github.com/composable-models/llm_multiagent_debate) ⭐ 545 | 🐛 8 | 🌐 Python | 📅 2025-04-24] \[[project page](https://composable-models.github.io/llm_debate)]
+* \[May 2023] **"Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate."** *Tian Liang (THU & Tencent) et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.19118)] \[[code](https://github.com/Skytliang/Multi-Agents-Debate) ⭐ 607 | 🐛 0 | 🌐 Python | 📅 2025-12-16]
+* \[May 2023] **"Improving Factuality and Reasoning in Language Models through Multiagent Debate."** *Yilun Du (MIT) et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.14325)] \[[code](https://github.com/composable-models/llm_multiagent_debate) ⭐ 546 | 🐛 8 | 🌐 Python | 📅 2025-04-24] \[[project page](https://composable-models.github.io/llm_debate)]
 * \[Jul 2023] **"Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration."** *Zhenhailong Wang (UIUC & MSRA) et al.* arXiv. \[[paper](https://arxiv.org/abs/2307.05300)] \[[code](https://github.com/MikeWangWZHL/Solo-Performance-Prompting) ⭐ 353 | 🐛 2 | 🌐 Python | 📅 2024-05-08]
 * \[Aug 2023] **"ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate."** *Chi-Min Chan (THU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.07201)] \[[code](https://github.com/chanchimin/ChatEval) ⭐ 340 | 🐛 8 | 🌐 Python | 📅 2024-10-19]
 * \[Aug 2023] **"Gentopia: A Collaborative Platform for Tool-Augmented LLMs."** *Binfeng Xu et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.04030)] \[[code](https://github.com/Gentopia-AI/Gentopia) ⭐ 327 | 🐛 3 | 🌐 Python | 📅 2023-11-27] \[[project page](https://gentopia-ai.github.io/Gentopia-AI-Homepage)]
@@ -113,11 +113,11 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 #### Framework & Open-Source
 
-* 🔥 \[Aug 2023] **"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework."** *Qingyun Wu et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.08155)] \[[code](https://github.com/microsoft/autogen) ⭐ 60,521 | 🐛 997 | 🌐 Python | 📅 2026-04-15] \[[project page](https://microsoft.github.io/autogen/)]
-* 🔥 \[Mar 2025] **"Julep: Open Responses – Serverless open-source platform for building long-running LLM agents with tool use."** *Julep AI.* \[[code](https://github.com/julep-ai/julep) ⭐ 6,595 | 🐛 3 | 🌐 Python | 📅 2026-08-06] \[[docs](https://docs.julep.ai/open-responses)]
-* 🔥 \[Sep 2023] **"Agents: An Open-source Framework for Autonomous Language Agents."** *Wangchunshu Zhou (AI Waves) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.07870)] \[[code](https://github.com/aiwaves-cn/agents) ⭐ 5,954 | 🐛 46 | 🌐 Python | 📅 2024-09-26] \[[project page](http://www.aiwaves-agents.com)]
+* 🔥 \[Aug 2023] **"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework."** *Qingyun Wu et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.08155)] \[[code](https://github.com/microsoft/autogen) ⭐ 60,541 | 🐛 998 | 🌐 Python | 📅 2026-04-15] \[[project page](https://microsoft.github.io/autogen/)]
+* 🔥 \[Mar 2025] **"Julep: Open Responses – Serverless open-source platform for building long-running LLM agents with tool use."** *Julep AI.* \[[code](https://github.com/julep-ai/julep) ⭐ 6,594 | 🐛 3 | 🌐 Python | 📅 2026-08-06] \[[docs](https://docs.julep.ai/open-responses)]
+* 🔥 \[Sep 2023] **"Agents: An Open-source Framework for Autonomous Language Agents."** *Wangchunshu Zhou (AI Waves) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.07870)] \[[code](https://github.com/aiwaves-cn/agents) ⭐ 5,955 | 🐛 46 | 🌐 Python | 📅 2024-09-26] \[[project page](http://www.aiwaves-agents.com)]
 * 🔥 \[Oct 2023] **"OpenAgents: An Open Platform for Language Agents in the Wild."** *Tianbao Xie (HKU & XLang Lab) et al.* arxiv. \[[paper](https://arxiv.org/abs/2310.10634)] \[[code](https://github.com/xlang-ai/OpenAgents) ⭐ 4,855 | 🐛 16 | 🌐 Python | 📅 2024-11-18]
-* 🔥 \[Sep 2023] **"AutoAgents: A Framework for Automatic Agent Generation."** *Guangyao Chen (PKU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.17288)] \[[code](https://github.com/LinkSoul-AI/AutoAgents) ⭐ 1,490 | 🐛 26 | 🌐 Python | 📅 2025-09-09]
+* 🔥 \[Sep 2023] **"AutoAgents: A Framework for Automatic Agent Generation."** *Guangyao Chen (PKU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.17288)] \[[code](https://github.com/LinkSoul-AI/AutoAgents) ⭐ 1,491 | 🐛 26 | 🌐 Python | 📅 2025-09-09]
 * 🔥 \[Sep 2023] **"Cognitive Architectures for Language Agents."** *Theodore Sumers (Princeton) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.02427)] \[[repo](https://github.com/ysymyth/awesome-language-agents) ⭐ 1,248 | 🐛 8 | 🌐 TeX | 📅 2025-01-16]
 * 🔥 \[Aug 2023] **"FastAgency: The fastest way to bring multi-agent workflows to production."** *Davor Runje et al.* \[[code](https://github.com/airtai/FastAgency) ⭐ 547 | 🐛 80 | 🌐 Python | 📅 2026-02-23] \[[project page](https://fastagency.ai/latest/)]
 * \[Feb 2025] **"The Ann Arbor Architecture for Agent-Oriented Programming."** *Wei Dong* arxiv. \[[paper](https://arxiv.org/abs/2502.09903)] \[[code](https://github.com/aaalgo/postline_0.1) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-03-13]
@@ -126,7 +126,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Web Agents
 
-* 🔥 \[Jul 2023] **"WebArena: A Realistic Web Environment for Building Autonomous Agents."** *Shuyan Zhou (CMU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2307.13854)] \[[code](https://github.com/web-arena-x/webarena) ⭐ 1,584 | 🐛 100 | 🌐 Python | 📅 2025-11-26] \[[project page](https://webarena.dev)]
+* 🔥 \[Jul 2023] **"WebArena: A Realistic Web Environment for Building Autonomous Agents."** *Shuyan Zhou (CMU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2307.13854)] \[[code](https://github.com/web-arena-x/webarena) ⭐ 1,583 | 🐛 100 | 🌐 Python | 📅 2025-11-26] \[[project page](https://webarena.dev)]
 * 🔥📖 \[Jun 2023] **"Mind2Web: Towards a Generalist Agent for the Web."** *Xiang Deng (OSU) et al.* NeurIPS 2023. \[[paper](https://arxiv.org/abs/2306.06070)] \[[code](https://github.com/OSU-NLP-Group/Mind2Web) ⭐ 1,019 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2025-11-05] \[[project page](https://osu-nlp-group.github.io/Mind2Web)]
 * 📖 \[Jul 2022] **"WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents."** *Shunyu Yao (Princeton) et al.* NeurIPS 2022. \[[paper](https://arxiv.org/abs/2207.01206)] \[[code](https://github.com/princeton-nlp/WebShop) ⭐ 584 | 🐛 18 | 🌐 Python | 📅 2024-09-06] \[[project page](https://webshop-pnlp.github.io)]
 * \[Sep 2023] **"You Only Look at Screens: Multimodal Chain-of-Action Agents."** *Zhuosheng Zhang (SJTU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.11436)] \[[code](https://github.com/cooelf/Auto-UI) ⭐ 262 | 🐛 10 | 🌐 Python | 📅 2024-07-16]
@@ -152,10 +152,10 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Robotics & Embodied AI
 
-* 🔥 \[May 2023] **"Voyager: An Open-Ended Embodied Agent with Large Language Models."** *Guanzhi Wang (NVIDIA & Caltech) et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.16291)] \[[code](https://github.com/MineDojo/Voyager) ⭐ 7,149 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-03] \[[project page](https://voyager.minedojo.org)]
+* 🔥 \[May 2023] **"Voyager: An Open-Ended Embodied Agent with Large Language Models."** *Guanzhi Wang (NVIDIA & Caltech) et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.16291)] \[[code](https://github.com/MineDojo/Voyager) ⭐ 7,152 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-03] \[[project page](https://voyager.minedojo.org)]
 * 🔥 \[May 2023] **"Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory."** *Xizhou Zhu (THU & SenseTim) et al.* arXiv. \[[paper](https://arxiv.org/abs/2305.17144)] \[[code](https://github.com/OpenGVLab/GITM) ⭐ 642 | 🐛 12 | 📅 2023-06-05]
 * \[Nov 2023] **"JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models."** *Zihao Wang (PKU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2311.05997)] \[[code](https://github.com/CraftJarvis/JARVIS-1) ⭐ 409 | 🐛 7 | 🌐 Java | 📅 2024-04-08] \[[project page](https://craftjarvis-jarvis1.github.io/)]
-* \[Jul 2024] **"Odyssey: Empowering Agents with Open-World Skills."** *Shunyu Liu (Zhejiang University) et al.* arXiv. \[[paper](https://arxiv.org/abs/2407.15325)] \[[code](https://github.com/zju-vipa/Odyssey) ⭐ 401 | 🐛 2 | 🌐 Python | 📅 2025-10-22]
+* \[Jul 2024] **"Odyssey: Empowering Agents with Open-World Skills."** *Shunyu Liu (Zhejiang University) et al.* arXiv. \[[paper](https://arxiv.org/abs/2407.15325)] \[[code](https://github.com/zju-vipa/Odyssey) ⭐ 401 | 🐛 3 | 🌐 Python | 📅 2025-10-22]
 * \[Sep 2023] **"LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent."** *Jianing Yang (UMich) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.12311)] \[[code](https://github.com/sled-group/chat-with-nerf) ⭐ 322 | 🐛 3 | 🌐 Python | 📅 2025-10-10] \[[project page](https://chat-with-nerf.github.io)]
 * 📖 \[Feb 2023] **"Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents."** *Zihao Wang (PKU) et al.* NeurIPS 2023. \[[paper](https://arxiv.org/abs/2302.01560)] \[[code](https://github.com/CraftJarvis/MC-Planner) ⭐ 294 | 🐛 7 | 🌐 Python | 📅 2023-08-03]
 * \[Jul 2023] **"Embodied Task Planning with Large Language Models."** *Zhenyu Wu (BUPT) et al.* arXiv. \[[paper](https://arxiv.org/abs/2307.01848)] \[[code](https://github.com/Gary3410/TaPA) ⭐ 195 | 🐛 8 | 🌐 Python | 📅 2023-08-22] \[[project page](https://gary3410.github.io/TaPA/)]
@@ -179,7 +179,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Gaming & Role-Playing
 
-* 🔥📖 \[Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society."** *Guohao Li (KAUST) et al.* NeurIPS 2023. \[[paper](https://arxiv.org/abs/2303.17760)] \[[code](https://github.com/camel-ai/camel) ⭐ 17,610 | 🐛 475 | 🌐 Python | 📅 2026-08-14] \[[project page](https://www.camel-ai.org)]
+* 🔥📖 \[Mar 2023] **"CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society."** *Guohao Li (KAUST) et al.* NeurIPS 2023. \[[paper](https://arxiv.org/abs/2303.17760)] \[[code](https://github.com/camel-ai/camel) ⭐ 17,611 | 🐛 474 | 🌐 Python | 📅 2026-08-14] \[[project page](https://www.camel-ai.org)]
 * \[Sep 2023] **"Suspicion-Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4."** *Jiaxian Guo (U of Tokyo) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.17277)] \[[code](https://github.com/CR-Gjx/Suspicion-Agent) ⭐ 166 | 🐛 1 | 🌐 Python | 📅 2023-11-08]
 * \[Oct 2023] **"From Text to Tactic: Evaluating LLMs Playing the Game of Avalon."** *Jonathan Light (RPI) et al.* arXiv. \[[paper](https://arxiv.org/abs/2310.05036)] \[[code](https://github.com/jonathanmli/Avalon-LLM) ⭐ 160 | 🐛 2 | 🌐 Python | 📅 2025-05-30]
 * \[Apr 2023] **"Towards autonomous system: flexible modular production system enhanced with large language model agents."** *Yuchen Xia (University of Stuttgart) et al.* arXiv. \[[paper](https://arxiv.org/abs/2304.14721)] \[[code](https://github.com/YuchenXia/GPT4IndustrialAutomation) ⭐ 32 | 🐛 0 | 📅 2026-06-18]
@@ -194,11 +194,11 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ##### Other Applications
 
-* 🔥 \[Mar 2023] **"HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face."** *Yongliang Shen (ZJU & MSRA) et al.* arXiv. \[[paper](https://arxiv.org/abs/2303.17580)] \[[code](https://github.com/microsoft/JARVIS) ⭐ 25,184 | 🐛 3,964 | 🌐 Python | 📅 2025-07-29]
-* 🔥 \[Sep 2023] **"ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models."** *Chenliang Li (Alibaba) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.00986)] \[[code](https://github.com/modelscope/modelscope-agent) ⭐ 4,367 | 🐛 27 | 🌐 Python | 📅 2026-08-17] \[[demo](https://modelscope.cn/studios/damo/ModelScopeGPT/summary)]
-* 🔥 \[Sep 2023] **"ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving."** *Zhibin Gou (THU & Microsoft) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.17452)] \[[code](https://github.com/microsoft/ToRA) ⭐ 1,122 | 🐛 7 | 🌐 Python | 📅 2024-02-22] \[[project page](https://microsoft.github.io/ToRA)]
-* \[Apr 2023] **"GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information."** *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu* arXiv. \[[paper](https://arxiv.org/abs/2304.09667)] \[[code](https://github.com/ncbi/GeneGPT) ⭐ 428 | 🐛 0 | 🌐 Python | 📅 2025-05-08]
-* \[May 2024] **"AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments"** *Samuel Schmidgall (JHU & Stanford) et al.* arXiv. \[[paper](https://arxiv.org/pdf/2405.07960)] \[[code](https://github.com/samuelschmidgall/agentclinic) ⭐ 347 | 🐛 7 | 🌐 Python | 📅 2024-12-31] \[[project page](https://agentclinic.github.io/)]
+* 🔥 \[Mar 2023] **"HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face."** *Yongliang Shen (ZJU & MSRA) et al.* arXiv. \[[paper](https://arxiv.org/abs/2303.17580)] \[[code](https://github.com/microsoft/JARVIS) ⭐ 25,191 | 🐛 3,977 | 🌐 Python | 📅 2025-07-29]
+* 🔥 \[Sep 2023] **"ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models."** *Chenliang Li (Alibaba) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.00986)] \[[code](https://github.com/modelscope/modelscope-agent) ⭐ 4,366 | 🐛 28 | 🌐 Python | 📅 2026-08-17] \[[demo](https://modelscope.cn/studios/damo/ModelScopeGPT/summary)]
+* 🔥 \[Sep 2023] **"ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving."** *Zhibin Gou (THU & Microsoft) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.17452)] \[[code](https://github.com/microsoft/ToRA) ⭐ 1,123 | 🐛 7 | 🌐 Python | 📅 2024-02-22] \[[project page](https://microsoft.github.io/ToRA)]
+* \[Apr 2023] **"GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information."** *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu* arXiv. \[[paper](https://arxiv.org/abs/2304.09667)] \[[code](https://github.com/ncbi/GeneGPT) ⭐ 429 | 🐛 0 | 🌐 Python | 📅 2025-05-08]
+* \[May 2024] **"AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments"** *Samuel Schmidgall (JHU & Stanford) et al.* arXiv. \[[paper](https://arxiv.org/pdf/2405.07960)] \[[code](https://github.com/samuelschmidgall/agentclinic) ⭐ 348 | 🐛 7 | 🌐 Python | 📅 2024-12-31] \[[project page](https://agentclinic.github.io/)]
 * \[Oct 2023] **"OptiMUS: Optimization Modeling Using mip Solvers and large language models."** *Ali AhmadiTeshnizi (Stanford) et al.* arXiv. \[[paper](https://arxiv.org/abs/2310.06116)] \[[code](https://github.com/teshnizi/OptiMUS) ⭐ 288 | 🐛 2 | 🌐 Python | 📅 2025-11-04]
 * \[Jan 2024] **"EHRAgent: Code Empowers Large Language Models for Few-shot Complex Tabular Reasoning on Electronic Health Records."** *Wenqi Shi (GaTech) et al.* arXiv. \[[paper](https://arxiv.org/abs/2401.07128)] \[[code](https://github.com/wshi83/EhrAgent) ⭐ 141 | 🐛 7 | 🌐 Python | 📅 2024-12-26] \[[project page](https://night-chen.github.io/EHR-Agent-page/)]
 * \[Jun 2024] **Automated Peer Reviewing in Paper SEA: Standardization, Evaluation, and Analysis** *Jianxiang Yu (ECNU) et al.* EMNLP 2024. \[[paper](https://arxiv.org/abs/2407.12857)] \[[code](https://github.com/ecnu-sea/sea) ⭐ 90 | 🐛 5 | 🌐 Python | 📅 2026-01-18] \[[model](https://huggingface.co/ECNU-SEA)]
@@ -234,7 +234,7 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### Human Interaction Simulation
 
-* 🔥 \[Apr 2023] **"Generative Agents: Interactive Simulacra of Human Behavior."** *Joon Sung Park (Stanford) et al.* arXiv. \[[paper](https://arxiv.org/abs/2304.03442)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 21,959 | 🐛 146 | 📅 2024-08-05]
+* 🔥 \[Apr 2023] **"Generative Agents: Interactive Simulacra of Human Behavior."** *Joon Sung Park (Stanford) et al.* arXiv. \[[paper](https://arxiv.org/abs/2304.03442)] \[[code](https://github.com/joonspk-research/generative_agents) ⭐ 21,960 | 🐛 146 | 📅 2024-08-05]
 * 🔥 \[Aug 2023] **"AgentSims: An Open-Source Sandbox for Large Language Model Evaluation."** *Jiaju Lin (PTA Studio & PSU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.04026)] \[[code](https://github.com/py499372727/AgentSims) ⭐ 962 | 🐛 25 | 🌐 Python | 📅 2023-11-18] \[[project page](https://agentsims.com)]
 * \[Jun 2023] **"RecAgent: A Novel Simulation Paradigm for Recommender Systems."** *Lei Wang (RUC) et al.* arXiv. \[[paper](https://arxiv.org/abs/2306.02552)] \[[code](https://github.com/RUC-GSAI/YuLan-Rec) ⭐ 416 | 🐛 4 | 🌐 Python | 📅 2025-04-01]
 * \[Sep 2023] **"Identifying the Risks of LM Agents with an LM-Emulated Sandbox"** *Yangjun Ruan (University of Toronto & Vector Institute) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.15817)] \[[code](https://github.com/ryoungj/toolemu) ⭐ 218 | 🐛 2 | 🌐 Python | 📅 2024-03-22] \[[demo](https://demo.toolemu.com/)] \[[project page](https://toolemu.com/)]
@@ -276,8 +276,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### Benchmark
 
-* 🔥 \[Aug 2023] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.03688)] \[[code](https://github.com/THUDM/AgentBench) ⭐ 3,675 | 🐛 75 | 🌐 Python | 📅 2026-02-08] \[[project page](https://llmbench.ai/)]
-* 📖 \[Jul 2024] **"AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents."** *Harsh Trivedi (Stony Brook University) et al.* ACL 2024. \[[paper](https://arxiv.org/abs/2407.18901)] \[[code](https://github.com/stonybrooknlp/appworld) ⭐ 487 | 🐛 9 | 🌐 Python | 📅 2026-02-17] \[[project page](https://appworld.dev/)]
+* 🔥 \[Aug 2023] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.03688)] \[[code](https://github.com/THUDM/AgentBench) ⭐ 3,676 | 🐛 75 | 🌐 Python | 📅 2026-02-08] \[[project page](https://llmbench.ai/)]
+* 📖 \[Jul 2024] **"AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents."** *Harsh Trivedi (Stony Brook University) et al.* ACL 2024. \[[paper](https://arxiv.org/abs/2407.18901)] \[[code](https://github.com/stonybrooknlp/appworld) ⭐ 488 | 🐛 9 | 🌐 Python | 📅 2026-02-17] \[[project page](https://appworld.dev/)]
 * \[Oct 2023] **"Benchmarking Large Language Models As AI Research Agents."** *Qian Huang (Stanford) et al.* arXiv. \[[paper](https://arxiv.org/abs/2310.03302)] \[[code](https://github.com/snap-stanford/MLAgentBench) ⭐ 348 | 🐛 6 | 🌐 Python | 📅 2024-06-19]
 * \[Dec 2023] **"T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step."** *Zehui Chen (USTC, Shanghai AI Lab) et al.* arXiv. \[[paper](https://arxiv.org/abs/2312.14033)] \[[code](https://github.com/open-compass/T-Eval) ⭐ 312 | 🐛 40 | 🌐 Python | 📅 2024-04-03] \[[project page](https://open-compass.github.io/T-Eval/)]
 * 📖 \[June 2023] **"ToolQA: A Dataset for LLM Question Answering with External Tools."** *Yuchen Zhuang (GaTech) et al.* NeurIPS 2023. \[[paper](https://arxiv.org/abs/2306.13304)] \[[code](https://github.com/night-chen/ToolQA) ⭐ 286 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-08-19]
@@ -291,8 +291,8 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### Survey & Tutorial
 
-* 🔥 \[Mar 2023] **"A Survey of Large Language Models** (Sec. 6.3 - Planning for Complex Task Solving)." *Wayne Xin Zhao (RUC) et al.* arXiv. \[[paper](https://arxiv.org/abs/2303.18223)] \[[GitHub](https://github.com/RUCAIBox/LLMSurvey#planning-for-complex-task-solving) ⭐ 12,207 | 🐛 30 | 🌐 Python | 📅 2025-03-11]
-* 🔥 \[Sep 2023] **"The Rise and Potential of Large Language Model Based Agents: A Survey."** *Zhiheng Xi (FDU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.07864)] \[[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,174 | 🐛 32 | 📅 2025-09-12]
+* 🔥 \[Mar 2023] **"A Survey of Large Language Models** (Sec. 6.3 - Planning for Complex Task Solving)." *Wayne Xin Zhao (RUC) et al.* arXiv. \[[paper](https://arxiv.org/abs/2303.18223)] \[[GitHub](https://github.com/RUCAIBox/LLMSurvey#planning-for-complex-task-solving) ⭐ 12,207 | 🐛 29 | 🌐 Python | 📅 2025-03-11]
+* 🔥 \[Sep 2023] **"The Rise and Potential of Large Language Model Based Agents: A Survey."** *Zhiheng Xi (FDU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.07864)] \[[GitHub](https://github.com/WooooDyy/LLM-Agent-Paper-List) ⭐ 8,176 | 🐛 31 | 📅 2025-09-12]
 * 🔥 \[Aug 2023] **"A Survey on Large Language Model based Autonomous Agents."** *Lei Wang (RUC) et al.* arXiv. \[[paper](https://arxiv.org/abs/2308.11432)] \[[GitHub](https://github.com/Paitesanshi/LLM-Agent-Survey) ⭐ 2,910 | 🐛 16 | 📅 2025-02-20]
 * \[Sep 2023] **"Natural Language based Context Modeling and Reasoning with LLMs: A Tutorial."** *Haoyi Xiong (Baidu) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.15074)]
 * \[Sep 2023] **"An In-depth Survey of Large Language Model-based Artificial Intelligence Agents."** *Pengyu Zhao (BJTU) et al.* arXiv. \[[paper](https://arxiv.org/abs/2309.14365)]
@@ -301,11 +301,11 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### Autonomous Task Solver Projects
 
-* ![Auto-GPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,689 | 🐛 511 | 🌐 Python | 📅 2026-08-19 - An experimental open-source attempt to make GPT-4 fully autonomous.
-* ![LangChain Stars](https://img.shields.io/github/stars/langchain-ai/langchain) [🦜️🔗 LangChain](https://github.com/langchain-ai/langchain) ⭐ 144,575 | 🐛 405 | 🌐 Python | 📅 2026-08-19 - Building applications with LLMs through composability.
-* ![MetaGPT Stars](https://img.shields.io/github/stars/geekan/MetaGPT) [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 69,899 | 🐛 129 | 🌐 Python | 📅 2026-01-21 - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.
+* ![Auto-GPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT) [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,687 | 🐛 515 | 🌐 Python | 📅 2026-08-20 - An experimental open-source attempt to make GPT-4 fully autonomous.
+* ![LangChain Stars](https://img.shields.io/github/stars/langchain-ai/langchain) [🦜️🔗 LangChain](https://github.com/langchain-ai/langchain) ⭐ 144,644 | 🐛 412 | 🌐 Python | 📅 2026-08-20 - Building applications with LLMs through composability.
+* ![MetaGPT Stars](https://img.shields.io/github/stars/geekan/MetaGPT) [MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 69,913 | 🐛 130 | 🌐 Python | 📅 2026-01-21 - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo.
 * ![GPT Engineer Stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer) [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) ⚠️ Archived - Specify what you want it to build, the AI asks for clarification, and then builds it.
-* ![BabyAGI Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi) [BabyAGI](https://github.com/yoheinakajima/babyagi) ⭐ 22,350 | 🐛 31 | 🌐 Python | 📅 2026-01-31 - An AI-powered task management system.
+* ![BabyAGI Stars](https://img.shields.io/github/stars/yoheinakajima/babyagi) [BabyAGI](https://github.com/yoheinakajima/babyagi) ⭐ 22,351 | 🐛 30 | 🌐 Python | 📅 2026-01-31 - An AI-powered task management system.
 * ![OS-Copilot Stars](https://img.shields.io/github/stars/OS-Copilot/OS-Copilot) [L2MAC](https://github.com/OS-Copilot/OS-Copilot) ⭐ 1,796 | 🐛 21 | 🌐 Python | 📅 2024-09-09 - A self-improving conversational agent integrated into the operating system to automate daily tasks.
 * ![Saplings Stars](https://img.shields.io/github/stars/shobrook/saplings) [Saplings](https://github.com/shobrook/saplings) ⭐ 275 | 🐛 0 | 🌐 Python | 📅 2025-07-27 – 🌳 Build smarter agents using tree search.
 * ![L2MAC Stars](https://img.shields.io/github/stars/samholt/L2MAC) [L2MAC](https://github.com/samholt/l2mac) ⭐ 158 | 🐛 0 | 🌐 Python | 📅 2024-12-27 - 🚀 The LLM Automatic Computer Framework: L2MAC
@@ -313,9 +313,9 @@ Our goal with this project is to build an exhaustive collection of awesome resou
 
 ### Multi-Agent Simulation Projects
 
-* ![AI Town Stars](https://img.shields.io/github/stars/a16z-infra/ai-town) [AI Town 🏠💻💌](https://github.com/a16z-infra/ai-town) ⭐ 10,355 | 🐛 72 | 🌐 TypeScript | 📅 2026-06-12 - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
-* ![AgentVerse Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse) [🤖 AgentVerse 🪐](https://github.com/OpenBMB/AgentVerse) ⭐ 5,112 | 🐛 35 | 🌐 JavaScript | 📅 2024-09-09 - A flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
-* ![GPTeam Stars](https://img.shields.io/github/stars/101dotxyz/GPTeam) [GPTeam](https://github.com/101dotxyz/GPTeam) ⭐ 1,722 | 🐛 38 | 🌐 Python | 📅 2026-08-19 - An open-source multi-agent simulation.
+* ![AI Town Stars](https://img.shields.io/github/stars/a16z-infra/ai-town) [AI Town 🏠💻💌](https://github.com/a16z-infra/ai-town) ⭐ 10,362 | 🐛 72 | 🌐 TypeScript | 📅 2026-06-12 - A deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+* ![AgentVerse Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse) [🤖 AgentVerse 🪐](https://github.com/OpenBMB/AgentVerse) ⭐ 5,113 | 🐛 35 | 🌐 JavaScript | 📅 2024-09-09 - A flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
+* ![GPTeam Stars](https://img.shields.io/github/stars/101dotxyz/GPTeam) [GPTeam](https://github.com/101dotxyz/GPTeam) ⭐ 1,721 | 🐛 38 | 🌐 Python | 📅 2026-08-20 - An open-source multi-agent simulation.
 * ![ChatArena Stars](https://img.shields.io/github/stars/chatarena/chatarena) [🏟 ChatArena](https://github.com/chatarena/chatarena) ⭐ 1,554 | 🐛 7 | 🌐 Python | 📅 2025-08-11 - Multi-agent language game environments for LLMs.
 
 ## Perspectives
@@ -342,4 +342,4 @@ The repository is initially built and maintained by [Yupeng Hou](https://yupengh
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
